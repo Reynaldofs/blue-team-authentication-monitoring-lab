@@ -31,10 +31,10 @@ Essas ações simulam comportamentos comuns em ataques de **força bruta** e **e
 ## 📑 Evidências Coletadas
 
 ### Tentativa de login com usuário inválido
-![Invalid User](screenshots/Captura de tela de 2025-12-27 17-15-29.png)
+![Invalid User](screenshots/Captura%20de%20tela%20de%202025-12-27%2017-15-29.png)
 
 ### Falha de autenticação por senha incorreta
-![Failed Password](screenshots/Captura de tela de 2025-12-27 17-15-10.png)
+![Failed Password](screenshots/Captura%20de%20tela%20de%202025-12-27%2017-15-10.png)
 
 ---
 
